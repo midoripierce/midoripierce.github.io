@@ -1,0 +1,22 @@
+{
+	"movies": [
+		{
+			"Title": "The Lost City",
+			"Director": "Aaron Nee, Adam Nee",
+			"Rating": "PG-13",
+			"Year": "2022"
+		},
+		{
+			"Title": "Turning Red",
+			"Director": "Domee Shi",
+			"Rating": "PG",
+			"Year": "2022"
+		},
+		{
+			"Title": "Dog",
+			"Director": "Channing Tatum, Reid Carolin",
+			"Rating": "PG-13",
+			"Year": "2022"
+		}
+	]
+}

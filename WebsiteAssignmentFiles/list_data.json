@@ -1,22 +1,22 @@
 {
 	"movies": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "The Lost City",
+			"Director": "Aaron Nee, Adam Nee",
+			"Rating": "PG-13",
+			"Year": "2022"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Turning Red",
+			"Director": "Domee Shi",
+			"Rating": "PG",
+			"Year": "2022"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
+			"Title": "Dog",
+			"Director": "Channing Tatum, Reid Carolin",
 			"Rating": "PG-13",
-			"Year": "2008"
+			"Year": "2022"
 		}
 	]
 }
